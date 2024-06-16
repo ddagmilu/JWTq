@@ -1,4 +1,4 @@
-# JWTq: Lightweight JWT Library for Secure and Efficient IoT Environments
+# JWTq: Lightweight JWT mosquitto plugin for Secure and Efficient MQTT Environments
 
 ![License](https://img.shields.io/github/license/ddagmilu/JWTq)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/ddagmilu/JWTq/build.yml)
@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ddagmilu/JWTq)
 ![Issues](https://img.shields.io/github/issues/ddagmilu/JWTq)
 
-![JWTq Logo](./path/to/logo.png) <!-- Placeholder for logo image -->
+![JWTq Logo](https://i.imgur.com/tNHj0rA.png) <!-- Placeholder for logo image -->
 
 ## Description
 

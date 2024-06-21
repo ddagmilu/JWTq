@@ -15,7 +15,7 @@ JWTq is a lightweight JSON Web Token (JWT) library designed to enhance security 
 ## Usage
 
 ### JWTq Mosquitto Plugin
-
+The Plugin is available in `C`, `Rust` and `Golang`
 #### Configuration
 
 ```

@@ -5,7 +5,7 @@ import mysql.connector
 import json
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'your_secret_key_here'
+app.config['SECRET_KEY'] = 'ZO2rgM0OD1nh2RIG3OSn5tTH7v3z5AIpxT'
 
 # MySQL configuration
 db_config = {

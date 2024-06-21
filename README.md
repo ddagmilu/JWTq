@@ -14,6 +14,9 @@ JWTq is a lightweight JSON Web Token (JWT) library designed to enhance security 
 
 ## Usage
 
+### JWTq Mosquitto Plugin
+..
+
 ### AuthServer.py
 
 The `AuthServer.py` serves as the authentication server responsible for issuing, renewing, revoking, and managing JWT tokens. It connects to a MySQL database to store and manage the tokens.

@@ -18,6 +18,12 @@ JWTq is a lightweight JSON Web Token (JWT) library designed to enhance security 
 
 The `AuthServer.py` serves as the authentication server responsible for issuing, renewing, revoking, and managing JWT tokens. It connects to a MySQL database to store and manage the tokens.
 
+#### Requirements
+
+```python
+pip install -r requirements.txt
+```
+
 #### Endpoints
 
 - **/token/issue**: Issues a new JWT token.

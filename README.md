@@ -19,7 +19,7 @@ JWTq is a lightweight JSON Web Token (JWT) library designed to enhance security 
 #### Configuration
 
 ```
-auth_plugin /path/to/mosquitto_auth_plugin_jwt.so
+auth_plugin /path/to/JWTq.so
 ```
 
 #### Dependencies

@@ -20,7 +20,7 @@ def TopologyCreat(token_info):
     pub_topics = eval(token_info['pub_topic'])
 
     # Convert the icon image to base64
-    with open("/home/amyr/Desktop/IoT/Master/Github/icons8-jaxcore-100.png", "rb") as image_file:
+    with open("icons8-jaxcore-100.png", "rb") as image_file:
         base64_image = base64.b64encode(image_file.read()).decode('utf-8')
 
     # Create Network graph

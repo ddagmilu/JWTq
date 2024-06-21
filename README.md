@@ -23,7 +23,7 @@ auth_plugin /path/to/mosquitto_auth_plugin_jwt.so
 ```
 
 #### Dependencies
-- (libjwt 1.17.1)[https://github.com/benmcollins/libjwt]
+- [libjwt 1.17.1](https://github.com/benmcollins/libjwt)
 
 ### AuthServer.py
 

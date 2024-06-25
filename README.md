@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ddagmilu/JWTq)
 ![Issues](https://img.shields.io/github/issues/ddagmilu/JWTq)
 
-<img src="https://i.imgur.com/tNHj0rA.png" alt="JWTq Logo" width="300" height="200">
+<img src="https://i.imgur.com/tNHj0rA.png" alt="JWTq Logo" height="400">
  <!-- Placeholder for logo image -->
 
 ## Description
